@@ -60,14 +60,16 @@ Images:
 https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/puri-jagannadh-img.png
 https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/tedx-img.png
 https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/sadhguru-img.png
+https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/on-purpose-img.png
 
 CSS Colors used
 Background color Hex Code values:
 
 ![image](https://github.com/bukka5sandhya/PodcastPage/assets/133884532/d511c098-ab33-423d-9e85-68d58fe0daf6)
 
-https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/on-purpose-img.png
+Text color Hex Code values:
 
+![image](https://github.com/bukka5sandhya/PodcastPage/assets/133884532/65f9d4c3-6999-4780-ab12-fb48903e85a9)
 
 CSS Font families used:
 
